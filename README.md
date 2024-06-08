@@ -22,7 +22,7 @@ oportunidad que me ofrezcan.
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<mesiasd.calderon@gmail.com>**
-- Puedes contactarme a través de mi **[LinkedIn](https://www.linkedin.com/in/danicsacalder%C3%B3nmes%C3%ADas/)**
+- Puedes contactarme a través de mi **[LinkedIn](https://www.linkedin.com/in/danicsacalderonmesias/)**
 
 ### 🎨 Frontend
 
